@@ -25,16 +25,28 @@ public final class R {
         public static final int thiago_cortes=0x7f020001;
     }
     public static final class id {
-        public static final int action_settings=0x7f080006;
-        public static final int bt_cadastrar=0x7f080005;
-        public static final int bt_entrar=0x7f080004;
+        public static final int action_settings=0x7f08000e;
+        public static final int bt_apagar=0x7f080005;
+        public static final int bt_atualizar=0x7f080004;
+        public static final int bt_cadastrar=0x7f080006;
+        public static final int buscar_01=0x7f08000c;
+        public static final int cadastrar_01=0x7f08000d;
         public static final int email=0x7f080002;
         public static final int img_logo=0x7f080000;
+        public static final int lt_dados=0x7f08000b;
         public static final int niver=0x7f080003;
         public static final int nome=0x7f080001;
+        public static final int tv_email=0x7f080009;
+        public static final int tv_id=0x7f080007;
+        public static final int tv_niver=0x7f08000a;
+        public static final int tv_nome=0x7f080008;
     }
     public static final class layout {
-        public static final int activity_main=0x7f030000;
+        public static final int editar=0x7f030000;
+        public static final int inserir=0x7f030001;
+        public static final int listar_model=0x7f030002;
+        public static final int listaractivity=0x7f030003;
+        public static final int main=0x7f030004;
     }
     public static final class menu {
         public static final int main=0x7f070000;
@@ -76,5 +88,6 @@ public final class R {
  All customizations that are NOT specific to a particular API-level can go here. 
          */
         public static final int AppTheme=0x7f060001;
+        public static final int styleName=0x7f060002;
     }
 }

@@ -18,6 +18,5 @@
     </style>
 
     <style name="styleName" parent="android:Widget.Holo.Light.Button">
-        <item name="android:color">white</item>
     </style>
 </resources>
