@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">barbearia5estrelas</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="img">Logomarca da Empresa!</string>
+    <string name="nome">Seu Nome</string>
+    <string name="email">Seu Email</string>
+    <string name="niver">Seu Aniversário</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="entrar">Entrar</string>
+
+</resources>
